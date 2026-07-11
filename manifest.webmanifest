@@ -1,0 +1,9 @@
+{
+  "name": "N3 Compass",
+  "short_name": "N3 Compass",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5f1",
+  "theme_color": "#f7f5f1",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
